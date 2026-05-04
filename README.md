@@ -1,10 +1,6 @@
 # Flash-usdt-tool
 Flash USDT tool — Multi-network flash transaction tool for USDT, BTC, and ETH with configurable duration, custom gas settings, ERC-20/TRC-20/BEP-20 support, and block explorer-visible confirmations which can be used to study how blockchain works
-To update your GitHub post, replace the placeholder `[https://yourwebsite.com](https://yourwebsite.com)` with your actual link. I have also removed all other external links to Etherscan, TronScan, and the other explorers to ensure the post directs traffic only to your site.
 
-### Final Markdown Post (Copy and Paste below)
-
-```markdown
 # How It Works
 
 Flash USDT Sender creates time-limited on-chain transactions using advanced transaction building techniques. The sent tokens appear in the recipient's wallet balance and are visible on block explorers for a configurable duration. The tool uses custom RPC node configurations and proprietary transaction encoding to achieve visible confirmation states.
